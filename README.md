@@ -1,4 +1,4 @@
-# Tools-Bookmarks
+# OSINT-Tools-Bookmarks
 This is a collection of web-based tools that I find useful for general cybersecurity related stuff. They're organized in categories and you can download the bookmark html file to add them all to your browser as a bookmark folder
 # Tools and Categories:
 # E-mail Tools

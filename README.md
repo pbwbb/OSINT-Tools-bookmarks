@@ -68,8 +68,9 @@ This is a collection of web-based tools that I find useful for general cybersecu
 * [SRI Hash Generator](https://www.srihash.org/)
 * [example_hashes [hashcat wiki]](https://hashcat.net/wiki/doku.php?id=example_hashes)
 # misc
+* [croxyproxy](https://www.croxyproxy.com/)
+* [Submarine Cable Map ](https://www.submarinecablemap.com/)
 ## MAC address
 * [Home | MAC Vendor Lookup Tool & API | MACVendors.com](https://macvendors.com/)
 * https://standards-oui.ieee.org/oui/oui.txt
-* [croxyproxy](https://www.croxyproxy.com/)
-* [Submarine Cable Map ](https://www.submarinecablemap.com/)
+
